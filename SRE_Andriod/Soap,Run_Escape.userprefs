@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Victim_Movement.cs">
+    <Files>
+      <File FileName="Assets/scripts/Victim_Movement.cs" Line="107" Column="1" />
+      <File FileName="Assets/scripts/Score.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Background follow 2D.js" Line="1" Column="1" />
+      <File FileName="Assets/Camera_follow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Bottom_leap_button.cs" Line="1" Column="1" />
+      <File FileName="Assets/Top_leap_button_2.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

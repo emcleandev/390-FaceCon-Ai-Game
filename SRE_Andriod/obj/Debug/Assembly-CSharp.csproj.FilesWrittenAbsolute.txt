@@ -1,0 +1,14 @@
+/Users/emmanuelmclean/Documents/SRE_Andriod/Temp/bin/Debug/UnityEngine.dll
+/Users/emmanuelmclean/Documents/SRE_Andriod/Temp/bin/Debug/UnityEditor.dll
+/Users/emmanuelmclean/Documents/SRE_Andriod/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/emmanuelmclean/Documents/SRE_Andriod/Temp/bin/Debug/Mono.Cecil.dll
+/Users/emmanuelmclean/Documents/SRE_Andriod/Temp/bin/Debug/nunit.framework.dll
+/Users/emmanuelmclean/Documents/SRE_Andriod/Temp/bin/Debug/Unity.DataContract.dll
+/Users/emmanuelmclean/Documents/SRE_Andriod/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/emmanuelmclean/Documents/SRE_Andriod/Temp/bin/Debug/GoogleAdsWP8.dll
+/Users/emmanuelmclean/Documents/SRE_Andriod/Temp/bin/Debug/WP8Native.dll
+/Users/emmanuelmclean/Documents/SRE_Andriod/Temp/bin/Debug/WP8PopUps.dll
+/Users/emmanuelmclean/Documents/SRE_Andriod/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/emmanuelmclean/Documents/SRE_Andriod/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/emmanuelmclean/Documents/SRE_Andriod/obj/Debug/Assembly-CSharp.dll
+/Users/emmanuelmclean/Documents/SRE_Andriod/obj/Debug/Assembly-CSharp.dll.mdb

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{EB0E5F46-49D3-DCFB-1F61-B2050AF51726}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_4;UNITY_4_6;UNITY_ANDROID;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_IL2CPP;INCLUDE_WP8SUPPORT;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;UNITY5_SCRIPTING_IN_UNITY4;ENABLE_CACHING;ENABLE_CLOTH;UNITY_ANDROID_API;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_OSX;UNITY_TEAM_LICENSE;Amount</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>/Volumes/Mac 2/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>/Volumes/Mac 2/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\BOXs.cs" />
+     <Compile Include="Assets\Begin_back_zone_Script.cs" />
+     <Compile Include="Assets\Bottom_leap_button.cs" />
+     <Compile Include="Assets\Box_set_switch.cs" />
+     <Compile Include="Assets\Bull\CNJoystick\Scripts\CN2DController.cs" />
+     <Compile Include="Assets\Bull\CNJoystick\Scripts\CNCameraFollow.cs" />
+     <Compile Include="Assets\Bull\CNJoystick\Scripts\CNCameraRelativeSetup.cs" />
+     <Compile Include="Assets\Bull\CNJoystick\Scripts\CNJoystick.cs" />
+     <Compile Include="Assets\Bull\CNJoystick\Scripts\SkeletonAnimator.cs" />
+     <Compile Include="Assets\Buttons.cs" />
+     <Compile Include="Assets\Camera_follow.cs" />
+     <Compile Include="Assets\Chacter_selction.cs" />
+     <Compile Include="Assets\Chacterselction.cs" />
+     <Compile Include="Assets\Change_colour.cs" />
+     <Compile Include="Assets\Collision_Check.cs" />
+     <Compile Include="Assets\Color_switching.cs" />
+     <Compile Include="Assets\Daily_controller.cs" />
+     <Compile Include="Assets\End_level_trigger.cs" />
+     <Compile Include="Assets\Handed_switch.cs" />
+     <Compile Include="Assets\Jump_button.cs" />
+     <Compile Include="Assets\Level_Manger.cs" />
+     <Compile Include="Assets\Level_Text_Fade_control.cs" />
+     <Compile Include="Assets\Menu_manger.cs" />
+     <Compile Include="Assets\Mystery_Crate.cs" />
+     <Compile Include="Assets\Mystery_crate_cost.cs" />
+     <Compile Include="Assets\PassEnd_message.cs" />
+     <Compile Include="Assets\PauseManager.cs" />
+     <Compile Include="Assets\Prize_menu_controller.cs" />
+     <Compile Include="Assets\Product_Manger.cs" />
+     <Compile Include="Assets\Purple_Crate_Script.cs" />
+     <Compile Include="Assets\Results_controller.cs" />
+     <Compile Include="Assets\Savings_data.cs" />
+     <Compile Include="Assets\Scaler_for_ipad.cs" />
+     <Compile Include="Assets\Score_message.cs" />
+     <Compile Include="Assets\Screen_Ui_con3.cs" />
+     <Compile Include="Assets\ScrollSnapRect.cs" />
+     <Compile Include="Assets\Scroll_Controller.cs" />
+     <Compile Include="Assets\Scroll_Image_Script.cs" />
+     <Compile Include="Assets\Scroll_rect_snap.cs" />
+     <Compile Include="Assets\Settings.cs" />
+     <Compile Include="Assets\SoundPlayer.cs" />
+     <Compile Include="Assets\SpawnPoint.cs" />
+     <Compile Include="Assets\Star_panal_script.cs" />
+     <Compile Include="Assets\Star_script.cs" />
+     <Compile Include="Assets\Text_controller.cs" />
+     <Compile Include="Assets\Toggl_Settings.cs" />
+     <Compile Include="Assets\Top_leap_button_2.cs" />
+     <Compile Include="Assets\backgroundfollow.cs" />
+     <Compile Include="Assets\charSelectColoursCon.cs" />
+     <Compile Include="Assets\example.cs" />
+     <Compile Include="Assets\interactableCostumes.cs" />
+     <Compile Include="Assets\interactable_conditions.cs" />
+     <Compile Include="Assets\level_checker.cs" />
+     <Compile Include="Assets\level_menu.cs" />
+     <Compile Include="Assets\orb_currency_script.cs" />
+     <Compile Include="Assets\practice2.cs" />
+     <Compile Include="Assets\pratice1.cs" />
+     <Compile Include="Assets\scene_Fade_Script.cs" />
+     <Compile Include="Assets\scripts\Back_Zone_scriptRandom.cs" />
+     <Compile Include="Assets\scripts\Back_zone_scipt.cs" />
+     <Compile Include="Assets\scripts\Camera_mode.cs" />
+     <Compile Include="Assets\scripts\Managers\ComputerScience Example.cs" />
+     <Compile Include="Assets\scripts\Managers\Manger.cs" />
+     <Compile Include="Assets\scripts\Managers\ScoreManager.cs" />
+     <Compile Include="Assets\scripts\Score.cs" />
+     <Compile Include="Assets\scripts\Score_Orb_Point.cs" />
+     <Compile Include="Assets\scripts\Shower_Inspector_Basic_Movement.cs" />
+     <Compile Include="Assets\scripts\Sky_movement.cs" />
+     <Compile Include="Assets\scripts\Swipe_Dectection.cs" />
+     <Compile Include="Assets\scripts\Victim_C_Movement.cs" />
+     <Compile Include="Assets\scripts\Victim_C_Movenment2.cs" />
+     <Compile Include="Assets\scripts\Victim_Movement.cs" />
+     <Compile Include="Assets\scripts\background_scroller.cs" />
+     <Compile Include="Assets\scripts\collectables.cs" />
+     <Compile Include="Assets\scripts\shower_movement.cs" />
+     <Compile Include="Assets\spawboxes.cs" />
+     <Compile Include="Assets\star_currecny_script.cs" />
+     <Compile Include="Assets\toggleButtonsController.cs" />
+     <None Include="Assets\Bull\CNJoystick\OnScreenControls\Initial Pack\Sprites\flatDark\flatDark.xml" />
+     <None Include="Assets\Bull\Fonts\LuckiestGuy\LICENSE.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>/Volumes/Mac 2/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.4/UnityEngine.UI.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
