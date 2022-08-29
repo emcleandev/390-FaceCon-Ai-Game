@@ -10,7 +10,7 @@ Practical Investigation into face-controlled games. Understanding the limitation
 ## Demo
 ### demo-video
 - [demo-video](https://drive.google.com/file/d/12NOZtUuvrBYarguK0Pe8dtaetuUpF-Mj/view?usp=sharing) 
-###screenshots
+### screenshots
 <img width="1421" alt="Screenshot 2022-08-29 at 17 17 47" src="https://user-images.githubusercontent.com/58271203/187247345-1d659f05-502f-4b14-947e-b216ce47fbf6.png">
 
 
