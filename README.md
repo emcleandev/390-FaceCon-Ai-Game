@@ -5,7 +5,7 @@ Practical Investigation into face-controlled games. Understanding the limitation
 [Comp390Demo.pptx](https://github.com/emcleandev/390-FaceControlled/files/9443981/Comp390Demo.pptx)
 
 ## Dissertation
-- [Dissertation Comp390.pdf](https://github.com/emcleandev/390-FaceControlled/files/9446117/Dissertation.Comp390.pdf)
+- Document: [Dissertation Comp390.pdf](https://github.com/emcleandev/390-FaceControlled/files/9446117/Dissertation.Comp390.pdf)
 
 ## Demo
 ### demo-video
